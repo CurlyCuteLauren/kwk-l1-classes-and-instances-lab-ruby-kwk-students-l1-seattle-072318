@@ -1,6 +1,6 @@
 # dog.rb
 class Dog 
 end
-fido= gets.strip 
-snoopy= gets.strip
-lassie= gets.strip
+fido= Dog.new 
+snoopy= Dog.new 
+lassie= Dog.new
